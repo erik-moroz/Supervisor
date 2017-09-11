@@ -1,4 +1,9 @@
+erik-moroz.Supervisor
 =================
+
+[![Build Status](https://travis-ci.org/erik-moroz/Supervisor.svg)](https://travis-ci.org/erik-moroz/Supervisor)
+[![Galaxy](http://img.shields.io/badge/erik-moroz.Supervisor-blue.svg?style=flat-square)](https://galaxy.sudo.com/list#/roles/885)
+[![Tag](http://img.shields.io/github/tag/erik-moroz/erik-moroz.Supervisor.svg?style=flat-square)]()
 
 Ansible role which manage [supervisor](http://supervisord.org)
 
@@ -37,7 +42,7 @@ supervisor_groups: {}                                         # groups of tasks
 
 #### Usage
 
-Add `Supervisor` to your roles and set vars in your playbook file.
+Add `erik-moroz.Supervisor` to your roles and set vars in your playbook file.
 
 Example:
 
@@ -57,7 +62,7 @@ Example:
             autorestart: true
     supervisor_groups:
         - stuff:
-	    name: my_group
+            name: my_group
             programs: ping
 ```
 
