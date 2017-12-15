@@ -2,7 +2,7 @@ erik-moroz.Supervisor
 =================
 
 [![Build Status](https://travis-ci.org/erik-moroz/Supervisor.svg)](https://travis-ci.org/erik-moroz/Supervisor)
-[![Galaxy](http://img.shields.io/badge/erik-moroz.Supervisor-blue.svg?style=flat-square)](https://galaxy.sudo.com/list#/roles/885)
+[![Galaxy](http://img.shields.io/badge/erik-moroz.Supervisor-blue.svg?style=flat-square)](https://galaxy.ansible.com/erik-moroz/Supervisor/)
 [![Release](https://img.shields.io/github/release/erik-moroz/Supervisor.svg?style=flat-square)]()
 
 Ansible role which manages [supervisor](http://supervisord.org)
