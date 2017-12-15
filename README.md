@@ -51,7 +51,7 @@ Example:
 - hosts: all
 
   roles:
-    - Stouts.supervisor
+    - erik-moroz.Supervisor
 
   vars:
     supervisor_tasks:
