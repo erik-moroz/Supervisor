@@ -5,7 +5,7 @@ erik-moroz.Supervisor
 [![Galaxy](http://img.shields.io/badge/erik-moroz.Supervisor-blue.svg?style=flat-square)](https://galaxy.sudo.com/list#/roles/885)
 [![Release](https://img.shields.io/github/release/erik-moroz/Supervisor.svg?style=flat-square)]()
 
-Ansible role which manage [supervisor](http://supervisord.org)
+Ansible role which manages [supervisor](http://supervisord.org)
 
 * Install and manage [supervisor](http://supervisord.org)
 * Manage supervisor tasks
